@@ -1,5 +1,5 @@
 # ProgramExercise002
-Combining Rest Service source code from github with ProgramExercise002.
+Combining Rest Service source code from github with ProgramExercise001.
 
 ProgramExercise001 is a simple program that can add book-names to a files.
 You can show, add and delete books from the file.
