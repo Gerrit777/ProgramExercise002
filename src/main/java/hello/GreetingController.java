@@ -26,7 +26,7 @@ public class GreetingController {
 
     @RequestMapping("/shutdown")
     public void shutdown(){
-        System.exit(500);
+        System.exit(600);
     }
 }
 
